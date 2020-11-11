@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{64986CB4-8551-4C8F-B94E-C93FF5257F5A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyBlog/Models/CardDBContext.cs">
+    <Files>
+      <File FileName="MyBlog/Controllers/WeatherForecastController.cs" Line="25" Column="14" />
+      <File FileName="MyBlog/WeatherForecast.cs" />
+      <File FileName="MyBlog/Data/ApplicationDbContext.cs" Line="4" Column="30" />
+      <File FileName="MyBlog/Models/ApplicationUser.cs" Line="1" Column="1" />
+      <File FileName="MyBlog/Startup.cs" Line="34" Column="14" />
+      <File FileName="MyBlog/Data/CardDbContext.cs" Line="19" Column="1" />
+      <File FileName="MyBlog/appsettings.json" Line="4" Column="95" />
+      <File FileName="MyBlog/Models/PersonalCard.cs" Line="1" Column="1" />
+      <File FileName="MyBlog/Models/CardDBContext.cs" Line="25" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyBlog" expanded="True">
+            <Node name="MyBlog" expanded="True">
+              <Node name="ClientApp" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="CardDBContext.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyBlog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
